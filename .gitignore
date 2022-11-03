@@ -1,3 +1,12 @@
+_mydir
+
+__pycache__
 /demo/input/
 /demo/output/
 .idea
+
+/DcPose_supp_files
+
+/thirdparty/deform_conv/build
+/thirdparty/deform_conv/*.egg-info
+/thirdparty/deform_conv/*.so
